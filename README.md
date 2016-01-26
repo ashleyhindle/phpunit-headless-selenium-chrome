@@ -1,5 +1,7 @@
 # phpunit-headless-selenium-chrome
-Headless selenium chromedriver setup with PHPUnit examples
+Headless selenium chromedriver setup with PHPUnit example
+
+This is an example setup to run Selenium tests with PHPUnit.  The `.sh` script was tested on Ubuntu 14.04.
 
 https://code.google.com/p/selenium/wiki/ChromeDriver shows you the location of Chrome on OSes, and gives links to download chromedriver (which you'll need)
 
